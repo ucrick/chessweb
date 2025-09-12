@@ -10,7 +10,7 @@ or **PVP** over LAN/Internet (Host/Join). Maps are synchronized via a shared RNG
 ![Gameplay screenshot](01.jpg)
 ## Download
 - **Windows**: grab the latest release ZIP from the [Releases](https://github.com/ucrick/chessweb/releases/tag/first-version/Windows.zip) page (contains `windows.exe` + `windows.pck`).
-- **Android**: install the `.apk` from [Releases](/releases).
+- **Android**: install the `.apk` from [Releases](https://github.com/ucrick/chessweb/releases/tag/first-version/Windows.zip).
 
 ## How to Play (quick)
 - Click a unit card to **recruit**; spawn on your edge row.
